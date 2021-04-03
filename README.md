@@ -1,7 +1,7 @@
 INSTALL
 =======
 
-Install dependencies of IQcaptcha:
+Install dependencies of IQcaptcha submodule:
 ```
 cd ballerburg9005/iqcaptcha/IQcaptcha
 composer install
