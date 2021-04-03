@@ -3,7 +3,7 @@ INSTALL
 
 Install dependencies of IQcaptcha:
 ```
-cd IQcaptcha
+cd ballerburg9005/iqcaptcha/IQcaptcha
 composer install
 ```
 
