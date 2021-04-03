@@ -1,0 +1,3 @@
+[submodule "IQcaptcha"]
+	path = IQcaptcha
+	url = https://github.com/ballerburg9005/IQcaptcha
