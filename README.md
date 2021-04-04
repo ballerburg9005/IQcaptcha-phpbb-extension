@@ -1,10 +1,15 @@
-INSTALL
-=======
+<h1 align="center">
+  <a href="http://iqcaptcha.us.to/">
+    <img src="demo/logo_489_text.png" alt="IQcaptcha">
+  </a>
+</h1>
 
-Install dependencies of IQcaptcha submodule:
-```
-cd ballerburg9005/iqcaptcha/IQcaptcha
-composer install
-```
+<p align=center>
+  <strong><a href="http://iqcaptcha.us.to/">Website</a></strong>
+  | <strong><a href="http://iqcaptcha.us.to/repo/demo/demo.html">Demo</a></strong>
+  | <strong><a href="http://iqcaptcha.us.to/forum">Forum</a></strong>
+</p>
 
-Copy the folder to the ext/ folder of Phpbb. Go to ACP->Customize and enable IQcaptcha.
+<p align="center">
+Please refer to the [main IQcaptcha repository](https://github.com/ballerburg9005/IQcaptcha).
+</p>
