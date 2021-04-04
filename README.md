@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="http://iqcaptcha.us.to/">
-    <img src="demo/logo_489_text.png" alt="IQcaptcha">
+    <img src="https://github.com/ballerburg9005/IQcaptcha/raw/main/demo/logo_489_text.png" alt="IQcaptcha">
   </a>
 </h1>
 
@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-Please refer to the [main IQcaptcha repository](https://github.com/ballerburg9005/IQcaptcha).
+Please refer to the <strong><a href="https://github.com/ballerburg9005/IQcaptcha">main IQcaptcha repository</a></strong>
 </p>
