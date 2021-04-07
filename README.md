@@ -13,3 +13,5 @@
 <p align="center">
 Please refer to the <strong><a href="https://github.com/ballerburg9005/IQcaptcha">main IQcaptcha repository</a></strong>. Don't forget to run composer install.
 </p>
+
+Public sitekey and secret/private API key fields must be identical!
