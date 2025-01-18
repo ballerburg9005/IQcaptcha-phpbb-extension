@@ -45,8 +45,8 @@ class iqcaptcha extends \phpbb\captcha\plugins\captcha_abstract
 				. ":" .  filter_input(INPUT_SERVER, "SERVER_PORT");
 
 		$this->iqcaptcha_siteverify = $url . "/" . substr(__DIR__, strlen(filter_input(INPUT_SERVER, 'DOCUMENT_ROOT'))) . "/../../IQcaptcha/verify.php";
-		$this->iqcaptcha_server =  "/" . substr(__DIR__, strlen(filter_input(INPUT_SERVER, 'DOCUMENT_ROOT'))) . "/../../IQcaptcha/api";
-		$this->iqcaptcha_server_secure =   "/" . substr(__DIR__, strlen(filter_input(INPUT_SERVER, 'DOCUMENT_ROOT'))) . "/../../IQcaptcha/api";
+		$this->iqcaptcha_server =  $url . "/" . substr(__DIR__, strlen(filter_input(INPUT_SERVER, 'DOCUMENT_ROOT'))) . "/../../IQcaptcha/api";
+		$this->iqcaptcha_server_secure =   $url . "/" . substr(__DIR__, strlen(filter_input(INPUT_SERVER, 'DOCUMENT_ROOT'))) . "/../../IQcaptcha/api";
 
 	}
 
